@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "afs",
+      "description": "afs",
+      "publish_date": "2024-07-04",
+      "author_name": "afs",
+      "blog_image": "https://images.pexels.com/photos/8668613/pexels-photo-8668613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "total_likes": "100"
     }
   ]
 }
