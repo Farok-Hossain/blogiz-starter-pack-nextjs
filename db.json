@@ -62,6 +62,15 @@
       "author_name": "AFS",
       "blog_image": "https://images.pexels.com/photos/8668613/pexels-photo-8668613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "total_likes": "100"
+    },
+    {
+      "id": "8",
+      "title": "Meao Cat",
+      "description": "Cat is the best friends for human",
+      "publish_date": "2024-07-05",
+      "author_name": "AFS",
+      "blog_image": "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
+      "total_likes": "160"
     }
   ]
 }
